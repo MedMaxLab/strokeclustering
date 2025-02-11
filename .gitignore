@@ -1,0 +1,9 @@
+imgs/*
+output/*
+input/*
+!input/PD_NIHSS_ISCH_extended_df_toy.csv
+!input/SL_NIHSS_ISCH_extended_df_toy.csv
+*.log
+
+
+
